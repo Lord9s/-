@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete ="「🤖𝙍𝙤𝙢𝙚𝙤𖣘𝘽𝙤𝙩࿐💫」";
+const doNotDelete ="「🤖𝗠𝗮𝘁𝗲𝗼𝘽𝙤𝙩࿐💫」";
 /** 
 * @author NTKhang
 * @author: do not delete it
@@ -148,7 +148,7 @@ module.exports = {
 │ the usage:) 😉
 ╰───────────⭔
 ╭─────⭔
-│『 Romeo Vau』
+│『 𝗠𝗮𝘁𝗲𝗼』
 ╰────────:)`,
       help2: "%1◊\n│ » Currently, the bot has %2 commands that can be used\n│ » Total Cmds: %3 \n│ %4\n╰─────────────◊",
       commandNotFound: "Command \"%1\" does not exist",
