@@ -20,13 +20,16 @@ module.exports = {
     const name = userData.name;
 
     const ment = [{ id: id, tag: name }];
-    const a = "𝙍𝙤𝙢𝙚𝙤𖣘𝘽𝙤𝙩࿐";
-    const b = " + ";
-    const c = "Romeo Islam Rasel";
+    const a = "𝗠𝗮𝘁𝗲𝗼𖣘𝘽𝙤𝙩࿐";
+    const b = " . ";
+    const c = "Jayden Smith";
 const e = "Male";
-    const d = "m.me/mdromeoislamrasel.5";
-const f = "ig.me/mdromeoislamrasel";
+    const d = "https://m.me/lordjaydenSmith.1";
+const f = "ig.me/jaydenemith";
 const g = "single🙂";
+const h = "Need ongoing support? Type .supportgc to join our group and connect with others. Goodbye!";
+
+
 
     message.reply({ 
       body: `${name}, here is the information 🌝
@@ -36,7 +39,8 @@ const g = "single🙂";
 🌸 Gender: ${e}
 🌸 Messenger: ${d}
 🌸 Insta: ${f}
-🌸 Relationship: ${g}`,
+🌸 Relationship: ${g}
+🌸 join now: ${h}`,
 mentions: ment,
       attachment: attachment });
   }
