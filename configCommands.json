@@ -56,7 +56,6 @@
   "commandUnload": [
     "busy.js",
     "shoti.js",
-    "callad.js",
     "haha.js",
     "gen.js",
     "shoti2.js"
