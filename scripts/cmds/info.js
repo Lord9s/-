@@ -40,7 +40,7 @@ const h = "Need ongoing support? Type .supportgc to join our group and connect w
 🌸 Messenger: ${d}
 🌸 Insta: ${f}
 🌸 Relationship: ${g}
-🌸 join now: ${h}`,
+🌸 bot says: ${h}`,
 mentions: ment,
       attachment: attachment });
   }
